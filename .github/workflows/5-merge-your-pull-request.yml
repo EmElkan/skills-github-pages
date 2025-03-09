@@ -12,7 +12,7 @@ permissions:
   # Need `contents: write` to update the step metadata.
   contents: write
 
-jobs:
+
     # We'll run Ubuntu for performance instead of Mac or Windows.
     runs-on: ubuntu-latest
 
